@@ -27,21 +27,10 @@ The **Quick Return Mechanism (QRM)** is widely used in shaping, slotting, and pr
 ## 📊 Mathematical Formulation
 The **position equations** governing the mechanism are:
 
-\[
-O_1O_2 + AO_2 \cdot \sin(\theta_2) = AO_1 \cdot \sin(\theta_1)
-\]
-
-\[
-AO_2 \cdot \cos(\theta_2) = AO_1 \cdot \cos(\theta_1)
-\]
-
-\[
-BO_1 \cdot \sin(\theta_1) + BC \cdot \sin(\theta_3) = BO_1y
-\]
-
-\[
-BO_1 \cdot \cos(\theta_1) + BC \cdot \cos(\theta_3) - BO_1x = 0
-\]
+$$O_1O_2 + AO_2 \cdot \sin(\theta_2) = AO_1 \cdot \sin(\theta_1)$$  
+$$AO_2 \cdot \cos(\theta_2) = AO_1 \cdot \cos(\theta_1)$$  
+$$BO_1 \cdot \sin(\theta_1) + BC \cdot \sin(\theta_3) = BO_1y$$  
+$$BO_1 \cdot \cos(\theta_1) + BC \cdot \cos(\theta_3) - BO_1x = 0$$  
 
 where **θ1, θ2, θ3** represent angular positions of different links.
 
